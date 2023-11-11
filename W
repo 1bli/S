@@ -79,7 +79,7 @@
       "#ff0000"
     ],
     "CHANNEL_ICON": [
-      "#243052"
+      "#DEDEDE"
     ],
     "CHAT_BACKGROUND": [
       "#000000"
