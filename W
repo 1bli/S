@@ -61,13 +61,13 @@
       "#000000"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#243052"
+      "#DEDEDE"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#243052"
+      "#272727"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#364d70"
+      "#383838"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#283C5A"
@@ -79,7 +79,7 @@
       "#ff0000"
     ],
     "CHANNEL_ICON": [
-      "#DEDEDE"
+      "#EAEAEA"
     ],
     "CHAT_BACKGROUND": [
       "#000000"
