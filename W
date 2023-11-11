@@ -61,13 +61,13 @@
       "#000000"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#DEDEDE"
+      "#243052"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#272727"
+      "#243052"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#383838"
+      "#364d70"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#283C5A"
