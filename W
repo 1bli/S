@@ -25,16 +25,16 @@
       "#5078b4"
     ],
     "INTERACTIVE_NORMAL": [
-      "#B9B9B9"
+      "#545e80"
     ],
     "INTERACTIVE_HOVER": [
-      "#EAEAEA"
+      "#243052"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#EAEAEA"
+      "#243052"
     ],
     "INTERACTIVE_MUTED": [
-      "#676767"
+      "#545e80"
     ],
     "BACKGROUND_PRIMARY": [
       "#000000"
@@ -76,10 +76,10 @@
       "#293242"
     ],
     "TEXT_DANGER": [
-      "#F04040"
+      "#ff0000"
     ],
     "CHANNEL_ICON": [
-      "#EAEAEA"
+      "#243052"
     ],
     "CHAT_BACKGROUND": [
       "#000000"
