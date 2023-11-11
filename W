@@ -3,7 +3,7 @@
   "description": "Material you discord theme for mobile",
   "authors": [
     {
-      "name": "n",
+      "name": "m",
       "id": "543154693984223245"
     }
   ],
