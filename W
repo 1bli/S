@@ -40,25 +40,25 @@
       "#000000"
     ],
     "BACKGROUND_SECONDARY": [
-      "#16171A"
+      "#000000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#27272A"
+      "#000000"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0f1012"
+      "#000000"
     ],
     "BACKGROUND_ACCENT": [
-      "1E1E1E"
+      "000000"
     ],
     "BACKGROUND_FLOATING": [
-      "1E1E1E"
+      "000000"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#000000"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#16171A"
+      "#000000"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#DEDEDE"
